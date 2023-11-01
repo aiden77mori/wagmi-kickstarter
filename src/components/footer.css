@@ -1,0 +1,8 @@
+.footer::before {
+  content: '';
+  background: url(../assets/images/footer-line.png) no-repeat center center;
+  background-size: cover;
+  height: 3px;
+  display: block;
+  margin-bottom: 1.5rem;
+}
